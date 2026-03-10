@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: radial-gradient(circle at top, #2c2d45, #171830);
+}
+
+@theme {
+  --color-primary: #171830;
+  --color-secondary: #323338;
+}
